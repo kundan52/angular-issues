@@ -1,3 +1,7 @@
-p {
-  font-family: Lato;
+img {
+  width:120px;
+  height: auto;
+}
+.martop-20 {
+  margin-top: 20px;
 }
